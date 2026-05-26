@@ -134,7 +134,7 @@ KMeans clustering was used to group employees into interpretable workforce segme
 ## Repository Structure
 
 ```text
-employee_churn_anatysis_and_prediction/
+employee_churn_analysis_and_prediction/
 ├── data/
 ├── assests/
 ├── notebook/
